@@ -1,0 +1,1 @@
+A class using the __slots__ attribute is more memory efficient than a class without.
